@@ -1,1 +1,1 @@
-console.log(Ciara)
+console.log(name)
